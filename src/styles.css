@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Repo {
+  border: 1px solid red;
+  background-color: yellow;
+  margin-bottom: 5px;
+}
